@@ -1,0 +1,6 @@
+total 40
+-rwxr-xr-x 1 root root  8009 Mar 10 09:51 client
+-rw-rw-r-- 1 zjj  zjj   1675 Mar 10 09:50 client.cpp
+-rw-r--r-- 1 root root     0 Mar 10 09:51 result
+-rwxr-xr-x 1 root root 12847 Mar 10 09:51 server
+-rw-rw-r-- 1 zjj  zjj  10047 Mar 10 09:51 server.cpp
